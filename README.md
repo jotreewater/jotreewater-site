@@ -4,9 +4,9 @@ This github page is for my personal website project. This project will use a ASP
 
 The project's current status is *incomplete*
 
-Below is the plan for implementing features:
+## Below is the plan for upcoming features:
 
-Phase 1:
+### Phase 1:
 1. Create a React frontend with the following features
 	- Render a pdf of Joseph's current resume
 	- Button for uploading a pdf
@@ -23,12 +23,12 @@ Phase 1:
 	- Set up the app service
 	- Set up the PostgreSQL database
 	- Set up the Azure blob storage
-Phase 2 Ideas:
+### Phase 2 Ideas:
 - Proper Login Flow
 - Implement a navbar
 - Consider a kubernetes deployment over Azure's services
 - Implement a blog page with editor and some CMS services
-Phase 3 Ideas:
+### Phase 3 Ideas:
 - Greatly improve the security for Auth
 - Improve aesthetics
 - Create a wiki for recording what I learn
